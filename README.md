@@ -1,2 +1,2 @@
-# G1F021008_TIARA-YEMELDA_DoubleLinkledList
-G1F021008_TIARA YEMELDA_ASD_DoubleLinkledList_SistemInformasi
+# G1F021008_TIARA-YEMELDA_DoubleLinkedList
+G1F021008_TIARA YEMELDA_ASD_DoubleLinkedList_SistemInformasi
